@@ -4,20 +4,20 @@
 
 ##    Model Structure 
 
-                      Directory structure:
-                      └── satyaidk-Recyclable-object-detection-using-machine-learning.git/
-                      ├── README.md
-                      ├── SVM_model.pkl
-                      ├── waste classification organic and non organic-code-checkpoint.ipynb
-                      ├── Dataset/
-                      │   ├── flat_data.npy
-                      │   ├── target.npy
-                      │   ├── NON ORGANIC/
-                      │   └── ORGANIC/
-                      ├── model/
-                      │   └── RF_Classifier.pkl
-                      ├── test_images/
-                      └── .ipynb_checkpoints/
-                      └── waste classification organic and non organic-code-checkpoint-checkpoint.ipynb
+    Directory structure:
+    └── satyaidk-Recyclable-object-detection-using-machine-learning.git/
+        ├── README.md
+        ├── SVM_model.pkl
+        ├── waste classification organic and non organic-code-checkpoint.ipynb
+        ├── Dataset/
+        │   ├── flat_data.npy
+        │   ├── target.npy
+        │   ├── NON ORGANIC/
+        │   └── ORGANIC/
+        ├── model/
+        │   └── RF_Classifier.pkl
+        ├── test_images/
+        └── .ipynb_checkpoints/
+            └── waste classification organic and non organic-code-checkpoint-checkpoint.ipynb
 
 
